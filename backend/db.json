@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Macbook Pro",
+      "price": "1306.00"
+    },
+    {
+      "id": 3,
+      "name": "Smartphone Samsung Galaxy S21 Ultra 5G ",
+      "price": "1179.90"
+    },
+    {
+      "name": "Geladeira",
+      "price": "3000",
+      "id": 4
+    },
+    {
+      "name": "Cabine de Led",
+      "price": "60.00",
+      "id": 5
+    },
+    {
+      "name": "Para Excluir",
+      "price": "20.00",
+      "id": 7
+    }
+  ]
+}
